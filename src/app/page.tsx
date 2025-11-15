@@ -25,7 +25,7 @@ export default function Page() {
                 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none"
                 yOffset={8}
               >
-                Hi, I'm{" "}
+                Hi, I&apos;m{" "}
                 <span
                   className="bg-gradient-to-r from-pink-500 via-purple-500 to-cyan-400 
                             bg-[length:200%_200%] animate-gradient-x 
