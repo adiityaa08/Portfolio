@@ -219,9 +219,9 @@ export default function Page() {
                   I like to solve, participate and build things
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  During my time in university, I attended{" "}
-                  participated in hackathons and Competitions. Here are some of the ones !
+                  During my time in university, I participated in hackathons and competitions. Here are some of the ones!
                 </p>
+
               </div>
             </div>
           </BlurFade>
